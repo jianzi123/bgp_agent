@@ -1,0 +1,4 @@
+# github.com/gin-gonic/gin v1.6.3
+## explicit
+# github.com/sirupsen/logrus v1.7.0
+## explicit
